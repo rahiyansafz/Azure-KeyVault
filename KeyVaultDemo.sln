@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyVaultDemo", "KeyVaultDemo\KeyVaultDemo.csproj", "{B7BA8F7B-DC66-4466-A99B-F4B8AFFC3D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDemo", "ServiceDemo\ServiceDemo.csproj", "{C417B1CE-050A-477B-BFE7-0136AA544DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BA8F7B-DC66-4466-A99B-F4B8AFFC3D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BA8F7B-DC66-4466-A99B-F4B8AFFC3D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BA8F7B-DC66-4466-A99B-F4B8AFFC3D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BA8F7B-DC66-4466-A99B-F4B8AFFC3D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C417B1CE-050A-477B-BFE7-0136AA544DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C417B1CE-050A-477B-BFE7-0136AA544DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C417B1CE-050A-477B-BFE7-0136AA544DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C417B1CE-050A-477B-BFE7-0136AA544DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {375E0B07-C05F-40BE-A2ED-9873FE6CC5ED}
+	EndGlobalSection
+EndGlobal
